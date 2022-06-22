@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: "BankGothic";
+    src: local("BankGothic"),
+     url('./fonts/Bankgothic/bank\ gothic\ light\ bt.ttf') format("truetype");
+    font-weight: lighter;
+    }
